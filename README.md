@@ -29,7 +29,7 @@ Model | PMR | Acc | Tau | Rouge-S | LCS | Details
 Reference | 10.44 | 35.21 | 0.66 | 69.61 | 68.50 | 
 Reproduced |  |  |  |  |  | Used checkpoint-
 
-### SIND Abstracts - BTSort
+### SIND Captions - BTSort
 Model | PMR | Acc | Tau | Rouge-S | LCS | Details
 ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ------------ 
 Reference | 20.32 | 52.23 | 0.60 | 78.44 | 77.21 | 
