@@ -7,6 +7,7 @@ The authors have published the code accompanying this paper in [GitHub](https://
 ## Data
 We obtained the AAN, NIPS and NSF data by mailing the authors of [Sentence Ordering and Coherence Modeling using Recurrent Neural Networks.](https://arxiv.org/pdf/1611.02654.pdf)  
 We downloaded the SIND dataset (Stories ofImages-in-Sequence (SIS)) from [Visual Storytelling](http://visionandlanguage.net/VIST/dataset.html) website.  
+GloVe embeddings are downloaded from [here](https://nlp.stanford.edu/projects/glove/).  
 
 
 ## Results
